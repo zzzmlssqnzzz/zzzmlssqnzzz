@@ -1,6 +1,4 @@
 - 👋 Hi, I’m mel (she/her)
-- 👀 I’m interested in drawing and animation
-- 🌱 I’m currently learning how to code in: JAVA
 
 <!---
 zzzmlssqnzzz/zzzmlssqnzzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
